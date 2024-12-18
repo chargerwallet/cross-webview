@@ -1,6 +1,6 @@
 {
 	"name": "@chargerwallet/chargerwallet-cross-webview",
-	"version": "4.0.0",
+	"version": "4.0.2",
 	"keywords": [
 		"chargerwallet-cross-webview"
 	],
@@ -36,7 +36,7 @@
 		"react-native-webview": "^11.17.2"
 	},
 	"dependencies": {
-		"@chargerwallet/cross-inpage-provider-core": "4.0.0",
+		"@chargerwallet/cross-inpage-provider-core": "4.0.1",
 		"@chargerwallet/cross-inpage-provider-types": "4.0.0"
 	}
 }
